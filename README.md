@@ -53,7 +53,7 @@ analytics.Asset_Portfolio_Return(positions=[1, 1])
 
 ## Conclusion
 
-The `AssetsAnalytics`` project offers a comprehensive set of tools for analyzing financial assets, aiding in decision-making for investors and financial analysts.
+The `AssetsAnalytics` project offers a comprehensive set of tools for analyzing financial assets, aiding in decision-making for investors and financial analysts.
 
 Feel free to adjust the details and formatting based on your specific needs or preferences.
 
